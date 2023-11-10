@@ -6,8 +6,8 @@ Collection of the solutions in C++
 
 ## Important Questions
 
-S.No. | Question Name | Logic Used | Topic | Date |
-------|---------------|------------|-------|------|
+S.No. | Question Name | Logic Used | Topic |
+------|---------------|------------|-------|
 1 | [Missing and Repeating](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-01_Arrays/missing_repeating.cpp) | repeated xor | Bit Manipulation |
 2 | [Duplicate Number](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-01_Arrays/duplicate_number.cpp) | Linked List Cycle Detection | Arrays and Linked List |
 3 | [Merge Sorted Space in O(1) Space](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-01_Arrays/merge_sorted_arrays.cpp) | Gap Method: Shear Sort | Sorting |
@@ -28,8 +28,8 @@ S.No. | Question Name | Logic Used | Topic | Date |
 18 | [Count Total Set Bits](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-12_Bit_Manipulation/count_total_set_bits.cpp) | f(n)=x*2^(x-1)+(n-2^x+1)+f(n-2^x) | Recursion |
 19 | [Find nearest power of 2 <= n](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-12_Bit_Manipulation/find_MSB.cpp) | one by one set all the bits | Bit Manipulation |
 20 | [Square of a number](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-12_Bit_Manipulation/square_bit.cpp) | Left shift + recursion | Bit Manipulation |
-21 | [LRU Cache Design](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/LRU_cache.cpp) | Hashing + DLL {latest used on left near head} | Linked List | 30 June 21 |
-22 | [Sliding Window Maximum](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/sliding_window_max.cpp) | Deque + store max at dq front | Deque + Sliding Window | 01 July 21 |
-23 | [Largest rectangle in Histogram](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/largest_rectangle_histogram_2.cpp) | 3 vars: i-->nse, top = height, below top = pse | Stacks | 01 July 21 |
-24 | [Longest Palindromic Substring](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-15_Strings/longest_palindromic_substring.cpp) | Two pointer consecutive + 1 gap apart expansion | Strings | 01 July 21 |
-25 | [Integer to Roman](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-15_Strings/integer_to_roman.cpp) | Store the exception symbols like 1, 4, 5, 9, etc | Maths | 01 July 21 |
+21 | [LRU Cache Design](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/LRU_cache.cpp) | Hashing + DLL {latest used on left near head} | Linked List |
+22 | [Sliding Window Maximum](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/sliding_window_max.cpp) | Deque + store max at dq front | Deque + Sliding Window |
+23 | [Largest rectangle in Histogram](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/largest_rectangle_histogram_2.cpp) | 3 vars: i-->nse, top = height, below top = pse | Stacks |
+24 | [Longest Palindromic Substring](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-15_Strings/longest_palindromic_substring.cpp) | Two pointer consecutive + 1 gap apart expansion | Strings |
+25 | [Integer to Roman](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-15_Strings/integer_to_roman.cpp) | Store the exception symbols like 1, 4, 5, 9, etc | Maths |
